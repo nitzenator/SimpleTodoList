@@ -19,3 +19,7 @@ Notes:
 * Went over the video/slides of the todolist tutorial
 
 Walkthrough of all user stories:
+
+![Video Walkthrough](simpletodolist.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/)
